@@ -94,11 +94,4 @@ Recommended:
 
 ---
 
-## 📝 Future Improvements
 
-- Add support for TXT, DOCX, and web URLs
-- Implement persistent Qdrant DB
-- Add feedback loop for improving retrieval
-- Support multi-file indexing
-
----
