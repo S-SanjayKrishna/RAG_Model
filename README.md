@@ -15,30 +15,7 @@ A lightweight Retrieval-Augmented Generation (RAG) chatbot using a local LLM (Ge
 
 ---
 
-## 🧰 Setup Instructions
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/rag-chatbot-gemma.git
-cd rag-chatbot-gemma
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install gradio pymupdf sentence-transformers transformers qdrant-client accelerate
-```
-
-### 3. Run the App
-
-```bash
-python app.py
-```
-
-Then open the Gradio link in your browser.
-
----
 
 ## 🏗️ Architecture
 
@@ -125,8 +102,3 @@ Recommended:
 - Support multi-file indexing
 
 ---
-
-## 📬 Contact
-
-Made by [Your Name]  
-GitHub: [github.com/your-username](https://github.com/your-username)
