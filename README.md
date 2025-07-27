@@ -92,6 +92,8 @@ Recommended:
 - Chunk size significantly affects performance and relevance — too small loses context, too large overloads prompt.
 - Gradio allows easy prototyping and deployment.
 - Analysis:
+
+  
    <img width="575" height="187" alt="Analysis" src="https://github.com/user-attachments/assets/b250850e-a195-4dde-803b-15795af25c7e" />
 
   
